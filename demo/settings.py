@@ -77,7 +77,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'website',
         'USER': 'webuser',
-        'PASSWORD': 'utransdb',
+        'PASSWORD': 'utrainsdb',
         'HOST': 'localhost',
         'PORT': '',
     }
