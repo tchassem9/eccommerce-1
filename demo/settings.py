@@ -104,7 +104,7 @@ AUTHENTICATION_BACKENDS = (
 
 SITE_ID = 1
 LOGIN_REDIRECT_URL = '/'
-
+ACCOUNT_EMAIL_VERIFICATION = 'none'
 # Provider specific settings
 SOCIALACCOUNT_PROVIDERS = {
     'google': {
